@@ -1,0 +1,108 @@
+input.required {
+	border: 1px solid rgb(0, 168, 230); border-image: none;
+}
+textarea.required {
+	border: 1px solid rgb(0, 168, 230); border-image: none;
+}
+select.validation-failed {
+	background: url("../images/default/grid/invalid_line.gif") repeat-x bottom rgb(255, 255, 255); border: 1px solid rgb(221, 120, 112); border-image: none; color: rgb(255, 51, 0);
+}
+input.validation-failed {
+	background: url("../images/default/grid/invalid_line.gif") repeat-x bottom rgb(255, 255, 255); border: 1px solid rgb(221, 120, 112); border-image: none; color: rgb(255, 51, 0);
+}
+textarea.validation-failed {
+	background: url("../images/default/grid/invalid_line.gif") repeat-x bottom rgb(255, 255, 255); border: 1px solid rgb(221, 120, 112); border-image: none; color: rgb(255, 51, 0);
+}
+* html select.validation-failed {
+	background-color: rgb(232, 205, 185);
+}
+select.validation-passed {
+	border: 1px solid rgb(0, 204, 0); border-image: none; color: rgb(0, 0, 0);
+}
+input.validation-passed {
+	border: 1px solid rgb(0, 204, 0); border-image: none; color: rgb(0, 0, 0);
+}
+textarea.validation-passed {
+	border: 1px solid rgb(0, 204, 0); border-image: none; color: rgb(0, 0, 0);
+}
+.validation-advice {
+	margin: 0px 0px 0px 10px; padding: 0px; color: rgb(255, 51, 0); font-weight: bold; display: inline;
+}
+.custom-advice1 {
+	margin: 5px 0px; padding: 5px; color: rgb(255, 51, 0); font-weight: bold; background-color: rgb(223, 243, 251);
+}
+.custom-advice2 {
+	margin: 5px 0px; padding: 5px; color: rgb(255, 255, 255); font-weight: bold; background-color: rgb(255, 51, 0);
+}
+.tooltip {
+	overflow: hidden; font-size: 12px; position: absolute !important; z-index: 10000 !important; opacity: 0.8; -moz-opacity: .8;
+}
+.tooltip .xtop {
+	background: none; font-size: 1px; display: block;
+}
+.tooltip .xbottom {
+	background: none; font-size: 1px; display: block;
+}
+.tooltip .xb1 {
+	overflow: hidden; display: block;
+}
+.tooltip .xb2 {
+	overflow: hidden; display: block;
+}
+.tooltip .xb3 {
+	overflow: hidden; display: block;
+}
+.tooltip .xb4 {
+	overflow: hidden; display: block;
+}
+.tooltip .xb1 {
+	height: 1px;
+}
+.tooltip .xb2 {
+	height: 1px;
+}
+.tooltip .xb3 {
+	height: 1px;
+}
+.tooltip .xb2 {
+	background: rgb(102, 102, 102); border-right-color: rgb(51, 51, 51); border-left-color: rgb(51, 51, 51); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.tooltip .xb3 {
+	background: rgb(102, 102, 102); border-right-color: rgb(51, 51, 51); border-left-color: rgb(51, 51, 51); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.tooltip .xb4 {
+	background: rgb(102, 102, 102); border-right-color: rgb(51, 51, 51); border-left-color: rgb(51, 51, 51); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.tooltip .xbottom .xb2 {
+	background: rgb(102, 102, 102);
+}
+.tooltip .xbottom .xb3 {
+	background: rgb(102, 102, 102);
+}
+.tooltip .xbottom .xb4 {
+	background: rgb(102, 102, 102);
+}
+.tooltip .xb1 {
+	background: rgb(51, 51, 51); margin: 0px 5px;
+}
+.tooltip .xb2 {
+	border-width: 0px 2px; margin: 0px 3px;
+}
+.tooltip .xb3 {
+	margin: 0px 2px;
+}
+.tooltip .xb4 {
+	margin: 0px 1px; height: 2px;
+}
+.tooltip .xboxcontent {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(51, 51, 51); margin: 0px; padding: 0px 0.5em; border-image: none; color: rgb(0, 0, 0); -ms-word-wrap: break-word; text-shadow: 2px 2px 0px #ccc; background-color: rgb(102, 102, 102);
+}
+.mask-loading {
+	background: url("../images/loading.gif") no-repeat 5px 5px rgb(255, 255, 225); padding: 5px 10px 5px 25px; border: 1px solid rgb(152, 177, 200); border-image: none; line-height: 16px; position: absolute; z-index: 20001; opacity: 0.9; -moz-opacity: .9;
+}
+.el-mask {
+	left: 0px; top: 0px; position: absolute; z-index: 20000; -ms-zoom: 1; opacity: 0.4; background-color: rgb(102, 102, 102); -moz-opacity: .4;
+}
+.err-msg {
+	background: url("../images/sError.gif") no-repeat 2px 0px; padding: 2px 20px 1px; height: 18px; color: red; _padding-top: 4px;
+}

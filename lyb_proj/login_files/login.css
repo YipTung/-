@@ -1,0 +1,468 @@
+html {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+body {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+th {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+td {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+dl {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+dt {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+dd {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+ul {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+ol {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+li {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+form {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+input {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 12px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+body {
+	border: 0px currentColor; border-image: none;
+}
+html {
+	border: 0px currentColor; border-image: none;
+}
+img {
+	vertical-align: middle;
+}
+input {
+	vertical-align: middle;
+}
+select {
+	vertical-align: middle;
+}
+button {
+	vertical-align: middle;
+}
+a {
+	color: rgb(51, 51, 102); text-decoration: none;
+}
+a:hover {
+	color: rgb(255, 0, 0); text-decoration: underline;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+dl {
+	list-style: none;
+}
+.clearFix {
+	overflow: hidden; -ms-zoom: 1;
+}
+input {
+	padding: 1px 3px; font-size: 14px;
+}
+tbody {
+	text-align: center;
+}
+#getPwdBack {
+	top: 10px; right: 20px; position: absolute;
+}
+#copyright {
+	text-align: center; color: rgb(102, 102, 102);
+}
+#captchaImg {
+	margin: 0px 10px; width: 60px; height: 20px; cursor: pointer;
+}
+#top {
+	width: 1024px; height: 183px;
+}
+#top_1 {
+	background: url("../images/r1_c1.jpg") no-repeat; width: 102px; height: 183px; float: left;
+}
+#top_2 {
+	background: url("../images/r1_c2.jpg") no-repeat; width: 322px; height: 183px; float: left;
+}
+#top_3 {
+	background: url("../images/r1_c4.jpg") no-repeat; width: 313px; height: 183px; float: left;
+}
+#top_4 {
+	background: url("../images/r1_c8.jpg") no-repeat; width: 287px; height: 183px; float: left;
+}
+#mid {
+	width: 1024px; height: 220px;
+}
+#mid_1 {
+	background: url("../images/r2_c1.jpg") no-repeat; width: 245px; height: 220px; float: left;
+}
+#mid_2 {
+	background: url("../images/r2_c3.jpg") no-repeat; width: 237px; height: 220px; float: left;
+}
+#mid_3 {
+	background: url("../images/r2_c5.jpg") no-repeat; width: 217px; height: 220px; float: left;
+}
+#mid_4 {
+	background: url("../images/r2_c7.jpg") no-repeat; width: 325px; height: 220px; float: left;
+}
+#footer {
+	width: 1024px; height: 166px;
+}
+#footer_l {
+	background: url("../images/r3_c1.jpg") no-repeat; width: 560px; height: 166px; float: left;
+}
+#footer_r {
+	background: url("../images/r3_c6.jpg") no-repeat; width: 464px; height: 166px; float: left;
+}
+#topmenu {
+	margin: 5px 25px 0px 0px;
+}
+#topmenu ul {
+	list-style: none;
+}
+#topmenu ul li {
+	padding: 0px 2px; height: 18px; line-height: 18px; float: left;
+}
+.space {
+	width: 15px;
+}
+#topmenu ul li a {
+	color: rgb(51, 51, 51); font-size: 11px; text-decoration: none;
+}
+#topmenu ul li a:hover {
+	color: rgb(255, 132, 0);
+}
+#text1 {
+	color: rgb(0, 51, 153); font-size: 12px; margin-top: 15px;
+}
+#text2 {
+	color: rgb(136, 136, 136); font-size: 12px; margin-top: 120px;
+}
+.mainDiv {
+	margin: 0px auto; width: 980px;
+}
+ul {
+	list-style: none; margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+li {
+	list-style: none; margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+img {
+	border: currentColor; border-image: none;
+}
+div {
+	border: currentColor; border-image: none;
+}
+.top {
+	background: url("../images/logobg.jpg") repeat-x left top; width: 980px; float: left; display: block;
+}
+.top ul li {
+	float: left;
+}
+.logo {
+	width: 700px;
+}
+.top a {
+	width: 54px; height: 12px; color: rgb(0, 105, 183); text-decoration: none; display: block;
+}
+.logo a {
+	background: url("../images/inner_logo.gif") no-repeat left top; width: 444px; height: 58px; display: block;
+}
+.top a:hover {
+	text-decoration: underline;
+}
+.top a.sitemessage {
+	background: url("../images/inner_sitemessage.gif") no-repeat 0px 2px; padding-left: 15px;
+}
+.top a.selectstyle {
+	background: url("../images/inner_selectstyle.gif") no-repeat 0px 2px; padding-left: 15px;
+}
+.top a.setuserinfo {
+	background: url("../images/inner_setuserinfo.gif") no-repeat 0px 2px; padding-left: 15px;
+}
+.top a.exit {
+	background: url("../images/inner_exit.gif") no-repeat 0px 2px; width: 25px; padding-left: 15px;
+}
+.top .menucontent {
+	background: url("../images/inner_menu_bg.gif") repeat-x; width: 980px; height: 37px; float: left; display: block;
+}
+.top .menucontent a {
+	background: url("../images/inner_menu_flag.gif") no-repeat 108px 0px; width: 110px; height: 27px; text-align: center; color: rgb(255, 255, 255); padding-top: 10px; font-size: 14px; font-weight: 700; text-decoration: none; display: block;
+}
+.top .menucontent a.addpage {
+	background: url("../images/inner_menu_addpage_bg.gif") no-repeat 10px 6px; padding: 11px 0px 0px 5px; height: 26px; font-size: 13px; font-weight: 600;
+}
+.top .searchinsite {
+	width: 340px; height: 30px; padding-top: 7px; padding-left: 640px; float: left; display: block; background-color: rgb(141, 213, 246);
+}
+.top .searchinsite ul li {
+	float: left;
+}
+.top .searchinsite a {
+	width: 70px; color: rgb(0, 105, 183); padding-top: 5px; display: block;
+}
+.top .searchinsite .txt {
+	background: url("../images/inner_search_txt.gif") no-repeat; border: currentColor; border-image: none; width: 134px; height: 21px;
+}
+.top .searchinsite .btn {
+	background: url("../images/inner_search_btn.gif") no-repeat; border: currentColor; border-image: none; width: 50px; height: 21px; color: rgb(255, 255, 255);
+}
+.middle {
+	width: 980px; padding-top: 20px; float: left; display: block;
+}
+.middle .logininfo {
+	background: url("../images/inner_contentbox_topbg.gif") repeat-x rgb(244, 244, 244); border: 0px solid rgb(220, 221, 221); border-image: none; width: 276px; height: 251px; color: rgb(13, 57, 93); padding-left: 15px; display: block;
+}
+.middle .logininfo .welcomeuser {
+	height: 30px; color: rgb(54, 115, 166); margin-top: 30px;
+}
+.middle .logininfo .welcomeuser a {
+	color: red;
+}
+.middle .logininfo .userphoto {
+	float: left;
+}
+.middle .logininfo .userphoto div {
+	padding: 1px; border: 1px solid rgb(33, 86, 140); border-image: none; width: 101px; height: 133px; margin-right: 20px; float: left; display: block; _margin-right: 10px;
+}
+.middle .logininfo .userinfo {
+	float: left;
+}
+.middle .logininfo .userinfo ul li {
+	padding-bottom: 7px;
+}
+.middle .contentbox {
+	background: url("../images/inner_contentbox_topbg.gif") repeat-x; border: 1px solid rgb(220, 221, 221); border-image: none; display: block;
+}
+.middle .logininfo .title {
+	padding: 6px 0px 0px 15px; color: rgb(33, 86, 140); font-size: 13px; font-weight: 600; display: block;
+}
+.contentbox .title {
+	padding: 6px 0px 0px 15px; color: rgb(33, 86, 140); font-size: 13px; font-weight: 600; display: block;
+}
+.middle a.more {
+	color: rgb(255, 54, 0);
+}
+.middle a.divmore {
+	color: rgb(255, 54, 0); margin-left: 15px; float: left; display: block;
+}
+.middle_left {
+	width: 310px; float: left;
+}
+.middle_middle {
+	width: 390px; float: left;
+}
+.middle_right {
+	width: 276px; float: right;
+}
+.middle .card {
+	width: 290px; height: 135px; padding-left: 15px; margin-top: 10px; display: block;
+}
+.middle .cardinfo {
+	color: red; margin-top: 20px; display: block;
+}
+.middle .cardinfo li {
+	width: 290px; height: 25px; float: left; display: block;
+}
+.middle .cardinfo .short {
+	width: 140px; height: 20px;
+}
+.middle .cardinfo span {
+	color: rgb(13, 57, 93); font-size: 14px; font-weight: 700;
+}
+.middle .library {
+	width: 305px; height: 167px; color: rgb(54, 115, 166); margin-top: 10px; display: block;
+}
+.middle .borrowinfo {
+	margin-top: 20px; margin-left: 15px; display: block;
+}
+.middle .financial {
+	width: 305px; height: 189px; margin-top: 10px; display: block;
+}
+.middle .financialinfo {
+	margin-top: 20px; margin-left: 10px; float: left; display: block;
+}
+.middle .financialinfo li a {
+	background: url("../images/inner_list_image.gif") no-repeat; width: 263px; height: 30px; color: rgb(13, 57, 93); padding-left: 7px; text-decoration: none; display: block;
+}
+.middle .financial .news_title {
+	width: 195px; float: left;
+}
+.middle .financial .news_date {
+	width: 67px; color: rgb(54, 115, 166);
+}
+.middle .notice {
+	width: 383px; height: 440px; display: block;
+}
+.middle .noticeinfo {
+	margin-top: 20px; margin-left: 10px; float: left; display: block;
+}
+.middle .noticeinfo li a {
+	background: url("../images/inner_list_image.gif") no-repeat; width: 340px; height: 30px; color: rgb(13, 57, 93); padding-left: 7px; text-decoration: none; display: block;
+}
+.middle .notice .news_title {
+	width: 260px; float: left;
+}
+.middle .notice .news_date {
+	width: 70px; color: rgb(54, 115, 166);
+}
+.middle .subject {
+	width: 383px; height: 300px; display: block;
+}
+.middle .subjectinfo {
+	margin-top: 20px; display: block;
+}
+.middle .week {
+	width: 276px; height: 150px; display: block;
+}
+.middle .weekinfo {
+	margin-top: 20px; margin-left: 10px; float: left; display: block;
+}
+.middle .weekinfo li a {
+	background: url("../images/inner_list_image.gif") no-repeat; width: 243px; height: 30px; color: rgb(13, 57, 93); padding-left: 7px; text-decoration: none; display: block;
+}
+.middle .week .news_title {
+	width: 175px; float: left;
+}
+.middle .week .news_date {
+	width: 67px; color: rgb(54, 115, 166);
+}
+.middle .officemail {
+	width: 276px; height: 115px; margin-top: 15px; display: block;
+}
+.middle .officemailinfo {
+	margin-top: 20px; margin-left: 30px; display: block;
+}
+.middle .officemailinfo span {
+	background: url("../images/inner_email.gif") no-repeat; padding: 2px 0px 0px 30px; height: 30px; color: rgb(13, 57, 93); display: block;
+}
+.middle .officemailinfo a {
+	background: url("../images/inner_intoemail_bg.gif") no-repeat; padding: 5px 0px 0px 15px; width: 72px; height: 22px; color: rgb(255, 255, 255); font-size: 14px; font-weight: 700; text-decoration: none; display: block;
+}
+.middle .schoolmanage {
+	width: 276px; height: 170px; margin-top: 15px; display: block;
+}
+.middle .schoolmanageinfo {
+	margin-top: 20px; margin-left: 30px; float: left; display: block; _margin-left: 10px;
+}
+.middle .schoolmanageinfo li {
+	width: 77px; height: 60px; float: left;
+}
+.middle .schoolmanageinfo li a img {
+	width: 77px; height: 58px;
+}
+.middle .learning {
+	width: 276px; height: 70px; margin-top: 15px; display: block;
+}
+.middle .learninglist {
+	margin-top: 20px; margin-left: 10px; float: left; display: block;
+}
+.middle .learninglist li {
+	height: 30px; float: left;
+}
+.middle .learninglist li a {
+	background: url("../images/inner_list_image.gif") no-repeat; width: 75px; color: rgb(13, 57, 93); padding-left: 7px; text-decoration: none; display: block;
+}
+.middle .linkto {
+	width: 276px; height: 150px; margin-top: 15px; display: block; _width: 266px;
+}
+.middle .linktolist {
+	margin-top: 20px; margin-left: 20px; float: left; display: block; _margin-left: 10px;
+}
+.middle .linktolist li {
+	height: 30px; color: rgb(54, 115, 166);
+}
+.middle .linktolist li select {
+	width: 150px;
+}
+.bottom {
+	background: url("../images/inner_bottom_bg.jpg") repeat-x; width: 980px; height: 80px; text-align: center; color: rgb(47, 102, 167); line-height: 30px; margin-top: 20px; float: left; display: block; _padding-top: 20px;
+}
+.top .setindex {
+	width: 70px; text-align: right; color: rgb(153, 153, 153); line-height: 60px; list-style-type: disc;
+}
+.top .login {
+	width: 900px;
+}
+.top .setindex a {
+	width: 60px; color: rgb(153, 153, 153); display: block;
+}
+.login_middle {
+	background: url("../images/login_picturebg.gif") repeat-x; width: 980px; height: 405px; float: left; display: block;
+}
+.login_middle .leftpicture {
+	background: url("../images/login_leftpicture.gif") no-repeat left top; width: 612px; height: 405px; float: left; display: block;
+}
+.login_middle .logininfo {
+	width: 368px; height: 405px; text-align: center; float: left; display: block;
+}
+.login_middle .logininfo ul .l {
+	background: url("../images/login_left_bg.gif") repeat-x 0px 33px; width: 8px; height: 373px; float: left; display: block;
+}
+.login_middle .logininfo ul .m {
+	background: url("../images/login_mid_bg.gif") repeat-x 0px 33px; width: 328px; height: 373px; float: left; display: block;
+}
+.login_middle .logininfo ul .r {
+	background: url("../images/login_right_bg.gif") repeat-x 0px 33px; width: 11px; height: 373px; float: left; display: block;
+}
+.login_middle .logininfo ul .m .info {
+	background: url("../images/logininfo_logo.gif") no-repeat 14px 88px; width: 317px; height: 141px;
+}
+.login_middle .logininfo ul .m .txt {
+	width: 300px; height: 40px; text-align: left; color: rgb(189, 189, 189); line-height: 40px; padding-left: 17px; display: block;
+}
+.login_middle .logininfo ul .m .txt input {
+	width: 186px;
+}
+.login_middle .logininfo ul .m .btn {
+	width: 300px; height: 50px; line-height: 50px; padding-left: 17px; margin-top: 10px; display: block;
+}
+.login_middle .logininfo ul .m .btn .login {
+	background: url("../images/login_btn.gif") no-repeat left top; border: currentColor; border-image: none; width: 84px; height: 30px; color: rgb(255, 255, 255); font-size: 13px; font-weight: 600;
+}
+.login_middle .logininfo ul .m .btn .reset {
+	background: url("../images/login_reset_btn.gif") no-repeat left top; border: currentColor; border-image: none; width: 84px; height: 30px; color: rgb(255, 255, 255); font-size: 13px; font-weight: 600;
+}
+.login_middle .schoolinfo {
+	width: 980px; height: 81px; color: rgb(76, 121, 142); display: block;
+}
+.login_middle .schoolinfo li {
+	float: left;
+}
+.login_middle .schoolinfo .idea {
+	padding: 15px 0px 0px 73px; width: 132px; height: 81px; line-height: 20px;
+}
+.login_middle .schoolinfo .thought {
+	padding: 15px 0px 0px 73px; width: 247px; height: 81px; line-height: 20px;
+}
+.login_middle .schoolinfo .explain {
+	background: url("../images/login_bottom_flag.gif") no-repeat; padding: 15px 0px 0px 53px; width: 391px; height: 81px; line-height: 20px;
+}
+.login_bottom {
+	width: 980px; height: 40px; text-align: center; color: rgb(121, 121, 121); line-height: 40px; float: left; display: block; _height: 20px;
+}

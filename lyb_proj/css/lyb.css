@@ -1,0 +1,38 @@
+h1{
+	color: #B0E0E6;
+	font-weight: bold;
+}
+h5{
+	color: #778899;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #708090;
+}
+#container{
+	width: 910px;
+}
+#navi{
+	float: left;
+	height: 410px;
+	background: #B0E0E6;
+	
+	/**/
+}
+#navi li{
+	height: 45px;
+	width: 80px;
+	padding-top: 10px;
+	padding-right: 40px;
+}
+#info{
+	float: right;
+	color: #708090;
+	height: 400px;
+ 	width: 750px;
+	background-color: #F5F5F5;
+	padding-top: 10px;
+}
